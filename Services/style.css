@@ -1,0 +1,32 @@
+ul,
+ol {
+    list-style: none;
+}
+
+.asosiy-div {
+    padding: 50px;
+}
+
+.salom {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.lorem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ipsum {
+    text-align: center;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    margin: 20px;
+    width: 300px;
+}
+
+img {
+    margin-top: -25px;
+    width: 50px;
+}
